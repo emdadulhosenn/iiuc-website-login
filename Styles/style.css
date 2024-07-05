@@ -1,0 +1,18 @@
+img{
+    width: 100px; height: 100px;
+}
+div{
+    padding: 15px;
+    background-color: aqua;
+    margin: 500px;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    text-align: center;
+    align-content: center;
+    font-size: larger;
+}
+input{
+    text-align: center;
+}
